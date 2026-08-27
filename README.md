@@ -145,7 +145,7 @@ The processed dataset can be used as a foundation for further statistical analys
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+Damini Kailas Chavan
 
 **Week 1 Internship Task – Data Cleaning and Preliminary Analysis with R**
 
